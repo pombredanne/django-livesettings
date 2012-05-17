@@ -1,0 +1,4 @@
+django-livesettings
+===================
+
+django-livesettings
